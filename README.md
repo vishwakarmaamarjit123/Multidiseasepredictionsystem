@@ -1,2 +1,2 @@
 # Multidiseasepredictionsystem 
-This ML project helps to predict multidisease with data of patient
+This ML project helps to predict multiple disease at a time after analysis of patient's data
